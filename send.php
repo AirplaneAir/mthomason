@@ -10,6 +10,6 @@ echo '<script type="text/javascript">',
      'alert("Your message has been sent! Press OK to confirm.");',
      '</script>';
 echo '<script type="text/javascript">',
-          'window.location.replace("https://airplaneair.github.io/mthomason/");',
+          'window.location.replace("https://mthomason.tk");',
           '</script>';
  ?>
